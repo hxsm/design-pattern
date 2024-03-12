@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Test\\ComputerDecoratorTest::testBasicLaptop":0.001,"Test\\ComputerDecoratorTest::testLaptopWithGPU":0,"Test\\ComputerDecoratorTest::testLaptopWithOLEDScreen":0,"Test\\ComputerDecoratorTest::testLaptopWithOLEDScreenAndGPU":0}}
